@@ -1,0 +1,2 @@
+Information.
+Simple text editor
